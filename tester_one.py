@@ -6,11 +6,3 @@ from nation_class import Nation
 player_nation = Nation("Republic of the Colorado River", "RCR")
 
 player_nation.month_change()
-
-
-"""
-# next steps
-        province.print_pop()
-        province.print_literacy()
-        province.print_mmr()
-"""\
