@@ -8,3 +8,7 @@ It's an anti-4x game. You aren't here to expand, explore, exterminate, or any of
 for your people in a world of climate induced scarcity, predatory neighbors, and a very high carbon tax.
 
 good luck :)
+
+
+
+I'm an absolute baby coder, so go ahead and give me advice if you feel like it ;)
